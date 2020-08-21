@@ -16,7 +16,7 @@ Matrix multiplication task is scheduled and stored on a Queue and displayed on a
 
 Code:
 
-**main.c** file
+Free RTOS code stored in repository as **main.c** file.
 
 Result:
 ![GUI](https://github.com/adolfdcosta91/FreeRTOS---Queue-Matrix-Multiplication/blob/master/ScreenShot/ScreenShot.png)
