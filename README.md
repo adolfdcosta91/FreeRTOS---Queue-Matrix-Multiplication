@@ -14,4 +14,9 @@ Result:
 
 Matrix multiplication task is scheduled and stored on a Queue and displayed on a (10 X 10) matrix. 
 
+Code:
+
+**main.c** file
+
+Result:
 ![GUI](https://github.com/adolfdcosta91/FreeRTOS---Queue-Matrix-Multiplication/blob/master/ScreenShot/ScreenShot.png)
